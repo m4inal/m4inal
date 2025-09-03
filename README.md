@@ -1,9 +1,8 @@
 # 💫 About Me:
 Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe | Core Python Certified | LINUX | WAPT | NPT<br>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I'm%20an%20Ethical%20Hacker%20🕵️‍♂️&width=800&height=100" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+an+Ethical+Hacker+🕵️‍♂️)](https://git.io/typing-svg)
+
 
 
 ## 🌐 Socials:
