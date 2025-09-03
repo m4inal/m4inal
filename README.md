@@ -1,10 +1,22 @@
 # 💫 About Me:
 Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe | Core Python Certified | LINUX | WAPT | NPT<br>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I'm%20an%20Ethical%20Hacker%20🕵️‍♂️&width=800&height=100" />
-</p>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#FF0000" font-size="48" font-family="Fira Code, monospace" filter="url(#glow)">
+    I'm an Ethical Hacker 🕵️‍♂️
+  </text>
+</svg>
 
 
 ## 🌐 Socials:
