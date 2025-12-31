@@ -11,6 +11,20 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
   </a>
 </p>
 
+## 🧠 TryHackMe Achievements
+
+<p align="center">
+  <img src="https://tryhackme.com/img/badges/king.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/ohsint.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/ice.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/blue.svg" width="90" />
+</p>
+
+<p align="center">
+  <sub>Hands-on learning | CTFs | Real-world cyber labs</sub>
+</p>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mrinalkumarc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m4inal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m4inal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@m4inal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m4inall) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/MRINAL-KUMAR-CHANDRA) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mriinall) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mrinal-kumar-chandra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MrinalKuma53908gi) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MRINAL-KUMAR-CHANDRA-the-bold) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m4inall@gmail.com) 
@@ -27,20 +41,6 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4inal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-## 🧠 TryHackMe Achievements
-
-<p align="center">
-  <img src="https://tryhackme.com/img/badges/king.svg" width="90" />
-  <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="90" />
-  <img src="https://tryhackme.com/img/badges/ohsint.svg" width="90" />
-  <img src="https://tryhackme.com/img/badges/ice.svg" width="90" />
-  <img src="https://tryhackme.com/img/badges/blue.svg" width="90" />
-</p>
-
-<p align="center">
-  <sub>Hands-on learning | CTFs | Real-world cyber labs</sub>
 </p>
 
 ---
