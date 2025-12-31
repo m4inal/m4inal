@@ -27,6 +27,3 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m4inal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2611054" style='border:none;'></iframe>
-
