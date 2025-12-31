@@ -3,7 +3,7 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+an+Ethical+Hacker+🕵️‍♂️)](https://git.io/typing-svg)
 
-
+<b>MY TRYHACKME ACCOUNT</b>
 <p align="center">
   <a href="https://tryhackme.com/p/m4inal">
     <img src="https://tryhackme-badges.s3.amazonaws.com/m4inal.png" alt="TryHackMe Badge" />
