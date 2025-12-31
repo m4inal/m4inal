@@ -29,6 +29,15 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4inal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+## 🧠 TryHackMe Achievements
+
+<p align="center">
+  <img src="[https://tryhackme-badges.s3.amazonaws.com/webbed.png](https://tryhackme.com/m4inal/badges/koth-game?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=658858484979cb7a5ca73caa)" width="90" />
+</p>
+
+<p align="center">
+  <sub>Hands-on learning | CTFs | Real-world cyber labs</sub>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m4inal&icon=0&color=0)](https://visitcount.itsvg.in)
