@@ -25,3 +25,8 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m4inal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🛡️ TryHackMe Profile
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/m4inal.png)](https://tryhackme.com/p/m4inal)
+
