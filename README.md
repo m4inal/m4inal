@@ -23,7 +23,7 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m4inal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m4inal&icon=0&color=0)](https://visitcount.itsvg.in)
