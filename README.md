@@ -32,7 +32,11 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 ## 🧠 TryHackMe Achievements
 
 <p align="center">
-  <img src="[https://tryhackme-badges.s3.amazonaws.com/webbed.png](https://tryhackme.com/m4inal/badges/koth-game?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=658858484979cb7a5ca73caa)" width="90" />
+  <img src="https://tryhackme.com/img/badges/king.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/ohsint.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/ice.svg" width="90" />
+  <img src="https://tryhackme.com/img/badges/blue.svg" width="90" />
 </p>
 
 <p align="center">
