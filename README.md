@@ -22,8 +22,6 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4inal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?m4inal)](https://github.com/m4inal)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m4inal&icon=0&color=0)](https://visitcount.itsvg.in)
