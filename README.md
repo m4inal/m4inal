@@ -6,10 +6,9 @@ Cyber Security Enthusiast | CCNA & Ethical Hacking Certified | Top 3% TryHackMe 
 <p align="center">
 <b>MY TRYHACKME ACCOUNT</b>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/m4inal.png" 
-       alt="TryHackMe Badge"
-       width="460"
-       style="box-shadow: 0 0 20px rgba(0,255,0,0.15); border-radius: 10px;" />
+  <a href="https://tryhackme.com/p/m4inal">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/m4inal.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 
